@@ -675,3 +675,5 @@ config ARMSSE
     select UNIMP
     select SSE_COUNTER
     select SSE_TIMER
+
+source isis_obc/Kconfig
